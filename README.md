@@ -9,7 +9,7 @@
 
 - ❤️ Love Playing Computer/Mobile Games
 - 🛠️ Full Stack Engineer
-- 🌱 I’m currently learning ... Spring And Hibernate
+- 🌱 I’m currently learning ... Flutter And React
 - 📫 How to reach me: ...aryanshah576@gmail.com
 - 👩🏻‍🎓 Student GLS University
 
