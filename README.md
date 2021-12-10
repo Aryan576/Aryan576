@@ -1,6 +1,6 @@
 # Aryanshah 👋
 
-<h2> Hi, I'm Aryan Shah, currently pursuing Bachelor Of Computer Application</h2>
+<h2> Hi, I'm Aryan Shah, currently pursuing Masters of Computer Application  with cloud specialization</h2>
 </em>
 
 <br/>
