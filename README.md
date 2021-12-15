@@ -6,6 +6,7 @@
 <br/>
 
 <br/>
+<img align="right" src="https://github.com/Aryan576/Aryan576/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
 
 
 - ❤️ Love Playing Computer/Mobile Games
