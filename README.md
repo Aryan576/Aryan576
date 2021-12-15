@@ -28,5 +28,5 @@
 </p>
 <p><img  src="https://github-readme-stats.vercel.app/api?username=Aryan576&show_icons=true&theme=radical"&locale=en" alt="Aryan576" width="400" /></p>
     
-    <img align="right" src="https://github.com/Aryan576/Aryan576/developer.gif" alt="Coder GIF" width="500" height="400">
+  
 
