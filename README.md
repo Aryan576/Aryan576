@@ -14,6 +14,22 @@
 - 📫 How to reach me: ...aryanshah576@gmail.com
 - 👩🏻‍🎓 Student GLS University
 
+### I work with 
+
+```javascript
+let skills = {
+  code: ["HTML", "CSS", "Javascript", "Typescript", "PHP", "Dart", "Python"],
+  technology: {
+    frameworks : ["React", "Next", "React-Native", "Flutter", "Node","Nest Js","Express", "EJS", "Angular","Vue JS","GraphQL"],
+    tools : ["Git", "Redux", "Firebase",  "Sass", "Styled-Components", "Jest", "Puppeteer","Azure","GCP","Kafka"]
+   },
+  database: {
+    NoSQL : ["MongoDB","Reddish"],
+    SQL : ["MySQL", "PostgreSQL"],
+  },
+}
+```
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
