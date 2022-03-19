@@ -30,6 +30,8 @@ let skills = {
 }
 ```
 
+![Aryan's Github Stats](https://github.com/Aryan576/github-stats/blob/master/generated/overview.svg)
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
