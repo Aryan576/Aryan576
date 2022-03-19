@@ -18,13 +18,13 @@
 
 ```javascript
 let skills = {
-  code: ["HTML", "CSS", "Javascript", "Typescript", "PHP", "Dart", "Python"],
+  code: ["HTML", "CSS", "Javascript", "Typescript", "Java", "Dart", "Flutter"],
   technology: {
-    frameworks : ["React", "Next", "React-Native", "Flutter", "Node","Nest Js","Express", "EJS", "Angular","Vue JS","GraphQL"],
+    frameworks : ["Angualr", "Flutter", "Node Js","Nest Js","Express", "Spring", "Angular","Hibernate"],
     tools : ["Git", "Redux", "Firebase",  "Sass", "Styled-Components", "Jest", "Puppeteer","Azure","GCP","Kafka"]
    },
   database: {
-    NoSQL : ["MongoDB","Reddish"],
+    NoSQL : ["MongoDB"],
     SQL : ["MySQL", "PostgreSQL"],
   },
 }
