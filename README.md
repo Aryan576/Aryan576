@@ -18,10 +18,10 @@
 
 ```javascript
 let skills = {
-  code: ["HTML", "CSS", "Javascript", "Typescript", "Java", "Dart", "Flutter"],
+  code: ["HTML", "CSS", "Javascript", "Typescript", "Java"],
   technology: {
-    frameworks : ["Angualr", "Flutter", "Node Js","Nest Js","Express", "Spring", "Angular","Hibernate"],
-    tools : ["Git", "Redux", "Firebase",  "Sass", "Styled-Components", "Jest", "Puppeteer","Azure","GCP","Kafka"]
+    frameworks : ["Angualr","Node Js","Express", "Spring", "Angular","Hibernate"],
+    tools : ["Git","Firebase",  "Sass", "Styled-Components"]
    },
   database: {
     NoSQL : ["MongoDB"],
