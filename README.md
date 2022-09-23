@@ -20,7 +20,7 @@
 let skills = {
   code: ["HTML", "CSS", "Javascript", "Typescript", "Java"],
   technology: {
-    frameworks : ["Angualr","Node Js","Express", "Spring", "Angular","Hibernate"],
+    frameworks : ["Angualr","Node Js","Express", "Spring","Hibernate"],
     tools : ["Git","Firebase",  "Sass", "Styled-Components"]
    },
   database: {
